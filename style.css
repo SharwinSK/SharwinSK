@@ -156,3 +156,15 @@ h1, h2, h3, p {
 .contact-icons .icon:hover {
     transform: scale(1.1);
 }
+/* Footer Section */
+#footer {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #007BFF;
+    font-size: 2rem;
+    font-weight: 400;
+    padding: 20px;
+    margin-top: 30px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
