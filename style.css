@@ -25,9 +25,10 @@ h1, h2, h3, p {
 }
 
 .intro-text {
+    font-family: "Playwrite HU", cursive;
     font-size: 1.5rem;
     font-weight: 300;
-    color: #007BFF;  /* Deep Blue */
+    color: #000000;  /* Deep Blue */
     margin-bottom: 10px;
 }
 
@@ -40,6 +41,7 @@ h1, h2, h3, p {
 }
 
 .intro-profession {
+    font-family: "Playwrite HU", cursive;
     font-size: 1.2rem;
     font-weight: 400;
     color: #343A40;  /* Dark Gray */
